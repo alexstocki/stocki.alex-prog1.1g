@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1652740594 source:e:\codeblocks\cursada_2022\repaso-parcial\stocki.alex.progi.p1\funciones.c
+	"funciones.h"
+
+1652740047 e:\codeblocks\cursada_2022\repaso-parcial\stocki.alex.progi.p1\funciones.h
+
+1652740667 source:e:\codeblocks\cursada_2022\repaso-parcial\stocki.alex.progi.p1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1666541179 source:c:\users\alex\desktop\utn\programacion-1\programacion_i\primer-parcial\pp-1c-2022_01\stocki.alex.progi.p1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1666541419 c:\users\alex\desktop\utn\programacion-1\programacion_i\primer-parcial\pp-1c-2022_01\stocki.alex.progi.p1\funciones.h
+
+1666538526 source:c:\users\alex\desktop\utn\programacion-1\programacion_i\primer-parcial\pp-1c-2022_01\stocki.alex.progi.p1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1666651375 source:e:\utn-programacion\parcial-1\stocki.alex.progi.p1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1666650638 e:\utn-programacion\parcial-1\stocki.alex.progi.p1\funciones.h
+
+1666651188 source:e:\utn-programacion\parcial-1\stocki.alex.progi.p1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
